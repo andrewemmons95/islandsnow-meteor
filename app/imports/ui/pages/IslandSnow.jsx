@@ -14,7 +14,7 @@ export default class IslandSnow extends React.Component {
           <Image/>
           <MiddleMenu/>
           <FullWidthImage/>
-        </div>
+        </div>W
     );
   }
     }
